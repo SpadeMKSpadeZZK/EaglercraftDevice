@@ -1,7 +1,4 @@
 # EaglercraftDevice
-
-
-# [ Description ]
 This is Eaglercraft Launcher for multiple platforms
 
 
