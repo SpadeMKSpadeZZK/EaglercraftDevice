@@ -5,5 +5,7 @@ This is Eaglercraft Launcher for multiple platforms
 
 
 
-# [ Install ]
-See Install.md for more info.
+# INSTALL
+Goto Releases, find your device type and use the package. :)
+You can fork this repo if you want.
+
