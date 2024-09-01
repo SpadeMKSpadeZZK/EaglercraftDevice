@@ -1,12 +1,12 @@
 # EaglercraftDevice
 
 
-[ Description ]
+# [ Description ]
 This is Eaglercraft Launcher for multiple platforms
 
 
 
 
 
-[ Install ]
+# [ Install ]
 See Install.md for more info.
